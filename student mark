@@ -1,0 +1,15 @@
+//Create Function with Argument and return type for adding 
+//marks of Physics and Chemistry of a student
+
+int mark(int physics,int chemistry){
+  return (physics + chemistry);
+}
+
+void main(){
+  
+  int addingthemark = mark(98,78 );
+  print(addingthemark);
+  
+
+    
+}
