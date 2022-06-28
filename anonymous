@@ -1,9 +1,4 @@
-dynamic myname(dynamic firstname, dynamic secondname){
-  return (firstname + secondname);
-}
-void main(){
-  String additionOfTwoname = myname("ramsiya","Basheer");
-  print(additionOfTwoname);
+
   
   List<int> AdminNo = [ 2345 , 5544, 8876];
   var FirstAdminNo = (){
