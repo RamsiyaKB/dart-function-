@@ -1,0 +1,8 @@
+myage(dynamic age)
+{
+  print(age);
+}
+void main(){ 
+  print("i am  : ");
+  myage('22 year old');
+} 
