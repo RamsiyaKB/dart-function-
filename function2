@@ -1,0 +1,8 @@
+myname(String name)
+{
+  print(name);
+}
+void main(){ 
+  print("my name is : ");
+  myname('rmsyh');
+} 
