@@ -1,0 +1,9 @@
+void A(){
+  print("RMSYH");
+  }
+ 
+void main(){
+  print("GOOD GIRL");
+  A();
+  
+}
